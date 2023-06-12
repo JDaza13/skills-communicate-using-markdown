@@ -17,3 +17,7 @@ fs.open('demo.txt', 'r', function (err, f) {
 });
 
 ```
+- [ ] Set Headers
+- [ ] Insert doomguy image
+- [ ] Attanch node.js open file example
+- [ ] Create a task list
